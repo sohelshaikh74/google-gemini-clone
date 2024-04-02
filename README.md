@@ -14,7 +14,7 @@ Modern Web Technologies: Utilizes modern web development technologies and best p
 Getting Started:
 To get started with the project, follow these steps:
 
-Clone the Repository: git clone https://github.com/sohelshaikh74/google-gemini-clone
+Clone the Repository: git clone https://github.com/sohelshaikh74/google-gemini-clone.git
 
 Install Dependencies: cd google-gemini-clone then npm install
 
