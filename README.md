@@ -23,7 +23,7 @@ Run the Application: npm start
 Open in Browser: Visit http://localhost:3000 in your browser to view the application.
 
 # Demo Link:
-https://google-ai-gemini-clone.netlify.app
+ 🌐 Demo Link: https://google-ai-gemini-clone.netlify.app
 
 # Preview
 ![image](https://github.com/sohelshaikh74/google-gemini-clone/assets/118370019/d94108a8-63fb-4168-a5bb-2de46eba6a42)
